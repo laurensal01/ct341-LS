@@ -1,18 +1,17 @@
    /* Typography */
+   body {
+     font-family: 'Playfair Display', serif;
+     font-size: 14px;
+     color: #140225;
+   }
 
-   h1, h2{
-      font-family: 'Oswald', sans-serif;
-      font-size: 30px;
-      color:#00ccff;
-    }
+   h1, h2 {
+     font-family: 'Oswald', sans-serif;
+     font-size: 30px;
+     color: #00ccff;
+   }
 
-    p, a{
-      font-family: 'Playfair Display', serif;
-      font-size: 14px;
-      color:#9933ff;
-    }
-
-/* Layout */
+   /* Layout */
 
 
-/* Media */
+   /* Media */
